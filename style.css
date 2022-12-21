@@ -1,0 +1,28 @@
+.body
+{
+	text-align: center;
+	margin:0;
+}
+
+.header
+{
+	padding-bottom: 5%;
+	padding-top: 5%;
+	color: whitesmoke;
+	background-color: darkgray;
+}
+
+.main
+{	
+	padding-top: 5%;
+	padding-bottom: 5%;
+	font-family: monospace;
+}
+
+.footer
+{
+	color: whitesmoke;
+	padding-top: 5%;
+	padding-bottom: 2%;
+	background-color: purple;
+}
